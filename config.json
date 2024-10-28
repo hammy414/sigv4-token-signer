@@ -1,0 +1,5 @@
+{
+    "API_ENDPOINT": "your-api-endpoint",
+    "RESOURCE_ID": "resource-id-to-delete",
+    "REGION": "us-east-1"
+}
